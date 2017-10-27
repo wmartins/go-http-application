@@ -15,6 +15,11 @@ built, and you can run that.
 
 ## Running using Docker
 
+Available versions (`${VERSION}` variable):
+
+* `2.0.0`
+* `1.0.0`
+
 You can run the application using Docker just by typing:
 
 ```bash
